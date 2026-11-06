@@ -1,0 +1,10 @@
+Rafael Exemplo Lima
+rafael.exemplo@exemplo.com - 21 99876-5432 - linkedin.com/in/rafael-exemplo
+CPF: 123.456.789-00
+Idade: 29 anos
+
+Resumo: Analista com 5 anos em logística.
+Experiência
+- Analista de logística na Transportes Fictícios (2020-atual): dashboards em Power BI, acompanhamento de KPIs de frota
+- Elaboração de procedimentos operacionais padrão
+Idiomas: inglês intermediário

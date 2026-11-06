@@ -1,0 +1,14 @@
+Carla Fictícia Mendes
+E-mail: carla.ficticia@exemplo.com | Telefone: (11) 91234-5678
+Endereço: Rua Inventada, 123 - Bairro Exemplo
+Data de nascimento: 12/03/1985
+Estado civil: casada, 2 filhos
+
+Experiência
+2019-2021 - Assistente administrativa, Empresa Exemplo
+- Montei relatórios semanais de indicadores de entrega no Excel
+- Atendi fornecedores e organizei a documentação de compras
+2021-2024 - Pausa na carreira para cuidar dos filhos
+2024-atual - Curso de Power BI (on-line)
+
+Formação: Técnico em Administração
